@@ -1072,7 +1072,7 @@
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
 		color: #888;
-		font-weight: 300;
+		font-weight: 500;
 	}
 
 		body.is-loading *, input.is-loading *, textarea.is-loading *, select.is-loading * {
